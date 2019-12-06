@@ -10,3 +10,6 @@ def map(x)
     i+= 1 
   end
   
+  new_arr
+  
+end
