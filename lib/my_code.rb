@@ -1,4 +1,6 @@
 # Your Code Here
+# https://stackoverflow.com/questions/5254732/difference-between-map-and-collect-in-ruby this yield explanation helped a lot.
+
 def map(x)
   new_arr = []
   
