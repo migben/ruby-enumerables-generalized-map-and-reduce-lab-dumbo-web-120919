@@ -22,4 +22,7 @@ def reduce(x, y = nil)
   else 
     acc = x[0]
     i = 1
+  end
+  
+  
 end
