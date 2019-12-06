@@ -27,4 +27,5 @@ def reduce(x, y = nil)
   while i < x.length
     acc = (acc, x[i])
     
+    i+= 1
 end
