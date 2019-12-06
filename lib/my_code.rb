@@ -6,3 +6,5 @@ def map(x)
   
   while i < s.length
     new_arr << s[i]
+    
+    i+= 1
