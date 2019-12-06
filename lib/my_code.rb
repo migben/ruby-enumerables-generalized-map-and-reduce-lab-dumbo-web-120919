@@ -13,3 +13,5 @@ def map(x)
   new_arr
   
 end
+
+def reduce
