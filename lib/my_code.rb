@@ -24,5 +24,5 @@ def reduce(x, y = nil)
     i = 1
   end
   
-  
+  while i < x.
 end
