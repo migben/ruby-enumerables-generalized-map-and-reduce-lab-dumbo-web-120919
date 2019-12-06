@@ -14,7 +14,7 @@ def map(x)
   
 end
 
-def reduce(x)
-  if nil
+def reduce(x, y = nil)
+  if y
     accum = sp
 end
