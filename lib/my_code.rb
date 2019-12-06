@@ -4,4 +4,4 @@ def map(x)
   
   i = 0 
   
-  while
+  while i < s.length
