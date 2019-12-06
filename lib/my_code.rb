@@ -21,5 +21,5 @@ def reduce(x, y = nil)
     i = 0 
   else 
     acc = x[0]
-    
+    i = 1
 end
