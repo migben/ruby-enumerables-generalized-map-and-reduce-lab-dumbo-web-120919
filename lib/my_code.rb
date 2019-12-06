@@ -16,7 +16,7 @@ end
 
 def reduce(x, y = nil)
   if y
-    acc = sp
+    acc = y
     
     i = 0 
   else 
