@@ -4,8 +4,8 @@ def map(x)
   
   i = 0 
   
-  while i < s.length
-    new_arr << s[i]
+  while i < x.length
+    new_arr << x[i]
     
     i+= 1 
   end
@@ -14,4 +14,4 @@ def map(x)
   
 end
 
-def reduce
+def reduce(x)
