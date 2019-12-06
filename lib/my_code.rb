@@ -5,3 +5,4 @@ def map(x)
   i = 0 
   
   while i < s.length
+  
