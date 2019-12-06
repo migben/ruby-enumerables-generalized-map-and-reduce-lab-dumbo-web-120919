@@ -15,3 +15,6 @@ def map(x)
 end
 
 def reduce(x)
+  if nil
+    
+end
