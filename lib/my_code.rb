@@ -18,5 +18,5 @@ def reduce(x, y = nil)
   if y
     accum = sp
     
-    i =
+    i = 0 
 end
