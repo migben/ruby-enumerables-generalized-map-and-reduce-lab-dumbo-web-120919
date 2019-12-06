@@ -5,7 +5,7 @@ def map(x)
   i = 0 
   
   while i < x.length
-    new_arr << x[i]
+    new_arr << yield(x[i])
     
     i+= 1 
   end
