@@ -2,3 +2,6 @@
 def map(x)
   new_arr = []
   
+  i = 0 
+  
+  
