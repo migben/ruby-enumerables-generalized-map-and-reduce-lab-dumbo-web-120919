@@ -16,5 +16,5 @@ end
 
 def reduce(x)
   if nil
-    
+    accum = sp
 end
